@@ -7,4 +7,6 @@ Prerequisites:
 - high sierra is not required
 
 Screenshots:
-![FIG 1](https://raw.githubusercontent.com/shawhu/coremldemo/master/screenshots/IMG_0259.PNG)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shawhu/coremldemo/master/screenshots/IMG_0259.PNG" width="350"/>
+</p>
