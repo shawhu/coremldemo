@@ -53,7 +53,7 @@
                                 </constraints>
                             </view>
                         </subviews>
-                        <color key="backgroundColor" red="0.70095291648195712" green="0.86675526355833699" blue="0.95686274510000002" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <color key="backgroundColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
                         <constraints>
                             <constraint firstAttribute="trailingMargin" secondItem="dXR-Sc-Svx" secondAttribute="trailing" id="0MP-DS-Ihl"/>
                             <constraint firstItem="wfy-db-euE" firstAttribute="top" secondItem="dXR-Sc-Svx" secondAttribute="bottom" constant="8" id="3bF-1M-UgT"/>
